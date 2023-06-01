@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @tiagopessoalima
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Ensembles of Classifiers
-- 💞️ I’m looking to collaborate on Machine Learning for Healthcare
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tpfl/)
+
+
+
+
+👋 Hi, I'm @tiagopessoalima! I have a strong interest in Machine Learning and I'm currently focusing on expanding my knowledge in Ensembles of Classifiers. I'm particularly enthusiastic about applying Machine Learning techniques to the field of Healthcare.
+
+💞️ I'm actively seeking opportunities to collaborate with others in the area of Machine Learning for Healthcare. If you're working on similar projects or have ideas to share, I would love to connect and explore potential collaborations.
+
+📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/tpfl/). Feel free to connect with me there and let's start a conversation!
+
 
 <!---
 tiagopessoalima/tiagopessoalima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
