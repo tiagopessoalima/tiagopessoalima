@@ -1,5 +1,5 @@
-👋 Hi there, I'm @tiagopessoalima, a Machine Learning enthusiast with a strong commitment to driving innovation in the field of Healthcare. My current journey revolves around mastering Ensembles of Classifiers, seeking new avenues to create impact through data-driven solutions.
+👋 Olá! Sou o @tiagopessoalima, interessado em Machine Learning, com foco em aplicações na área da saúde. No momento, estou estudando Ensembles de Classificadores e buscando formas de usar dados para resolver problemas reais.
 
-💡 I'm on a quest to collaborate with visionaries in Machine Learning for Healthcare. If you're working on groundbreaking projects or have ingenious ideas, I'm eager to connect and explore the possibilities of turning dreams into reality.
+💡 Quero trocar experiências com pessoas que também trabalham com Machine Learning aplicado à saúde. Se você tem projetos ou ideias nessa área, fico feliz em conversar e aprender junto.
 
-🚀 Let's start the conversation! Reach out to me on [LinkedIn](https://www.linkedin.com/in/tpfl/), and let's be catalysts for transformative change in the healthcare industry. Together, we can make a difference!
+🚀 Me chama no [LinkedIn](https://www.linkedin.com/in/tpfl/) e vamos conversar!
